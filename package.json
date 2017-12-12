@@ -1,0 +1,21 @@
+{
+    "name": "smothiecharting",
+    "version": "1.0.0",
+    "description": "Smothie",
+    "main": "app.js",
+    "scripts": {},
+    "keywords": [
+        "charts",
+        "foreal",
+        "realtime"
+    ],
+    "author": "Luis Omar Lopez",
+    "license": "ISC",
+    "dependencies": {
+        "express": "latest",
+        "express.io": "^1.1.13",
+        "serialport": "^6.0.4",
+        "smoothie": "latest",
+        "socket.io": "^1.7.3"
+    }
+}
